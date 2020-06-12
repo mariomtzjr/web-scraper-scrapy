@@ -8,7 +8,7 @@ Ejecutar el comando:
 `pip install -r requirements.txt` ó  
 `pip install Scrapy`  
 
-## Ejecutarel scraper
+## Ejecutar el scraper
 Ejecutar el comando:  
 `scrapy runspider spider.py -o stack_preguntas.csv -t csv`  
 Donde:  
