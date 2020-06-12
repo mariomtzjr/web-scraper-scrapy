@@ -1,7 +1,7 @@
 # web-scraper-scrapy
 
 ## Requerimientos
-- Scrapy
+- Scrapy: [Documentación](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 
 ## Instalación de requerimientos
 Ejecutar el comando:  
